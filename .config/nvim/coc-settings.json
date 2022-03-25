@@ -1,0 +1,5 @@
+{
+    "diagnostic.displayByAle": true,
+    "javascript.showUnused": false,
+    "javascript.validate.enable": false
+}
